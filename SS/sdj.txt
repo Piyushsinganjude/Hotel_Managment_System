@@ -1,0 +1,33 @@
+Hello everyone, I am Devashri Bhosale pursuing a Bachelor's in Technology from G. H. Raisoni College of Engineering And Management, Pune.
+I have built a project Hotel Management System using python & MySQL. 
+The hotel management software will vastly cut down the time you spend on manual administrative tasks. The software does the majority
+ of the work and lets you divert your time to more important tasks, such as serving your guests.
+	It is one of the best sources for all stages of people as they provide detailed information about the rooms, food service, management, etc.
+Hotel management is not one concept, but many are tied together under one umbrella.
+Let's start!
+firstly we have to log in to the administrative system i.e. Hotel Management system with a username & password.
+if you are new to the system then click on create a new one! this link will direct you to the new window which is the Registration window.
+here we have to enter the correct information & password to create an admin Account on the system.
+after that we have to click on the register button if I filled in all information properly then this message box will be seen.
+then move to the next part of this project, here I will use my correct username & password to log in to the system. after giving the correct username & pass 
+the yes no type question box will appear to access the system.
+Clicking on the yes button will direct you to the main window which is the home page for the hotel management system. it is given 5 tabs under the menu.
+the 1st tab is the customer. Here we have to enter the proper information regarding the customer and simply click on the add button. the information will
+ be shown in the right-hand side customer details table. we can also modify the information of the existing customer information by using the update button. 
+unwanted customer details are deleted using the delete button. for new entries, we simply click on the reset as it clears all entry fields.
+now move to the next tab i.e. room tab. here we have to insert information related to the room booking.
+if we enter the contact no. and fetched data then it will display the customer details.
+then we have to insert data according to the customer's choice. after filling in all the information if we click on the button bill then it will give the total amount payable 
+according to the charges of the hotel. here also I made add, update, delete & reset buttons for convenience.
+now details tab, this tab is all about available rooms entry.
+this tab handles and modify by hotel staff according to the availability of rooms and their type.
+2nd last tab is Report, here I have given the mail of the software developer i.e. me for queries regarding the system and if anyone faces difficulty with the system.
+if you want to log out of the system then click on Logout. it will redirect to the login page.
+so this is the working of my project. Now let's go to the code part.
+here I have used python libraries such as Tkinter for creating windows, attributes, labels, etc. it is used for the interface of the system . also PIL Library is for dealing with images.
+and the most important library is MySQL connector .it will integrate python applications with the MySQL database server. for example, I have made the login page and integrated it
+ with the MySQL server by simply writing MySQL queries in python. I used MySQL workbench for a simple view of information which is stored in the form of tables in the databases.
+
+so this is the code I have written. if you want the source code then mail me at my email id bhosaledevashri1042@gmail.com.
+That's it guys in this python MySQL connectivity project we have seen the working of the project and an overview of the code.
+if you have any questions then free to ask. thank you so much!
